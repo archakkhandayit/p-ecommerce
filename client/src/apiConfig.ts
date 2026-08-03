@@ -6,7 +6,7 @@ export interface BackendStatus {
   latencyMs?: number;
 }
 
-const DEFAULT_BASE_URL = "http://localhost:5000/api";
+const DEFAULT_BASE_URL = "https://p-ecommerce-dusky.vercel.app/api";
 
 export function getApiBaseUrl(): string {
   const stored = localStorage.getItem("mern_api_base_url");
