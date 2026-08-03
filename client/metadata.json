@@ -1,0 +1,6 @@
+{
+  "name": "MERN Stack E-Commerce Management System",
+  "description": "Full-stack e-commerce management platform with JWT authentication, product catalog, user management, file uploads, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
